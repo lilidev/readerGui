@@ -1,0 +1,33 @@
+{
+  "ReaderManufacturer": "FEIG",
+  "AvailableModels": [
+    "Model"
+  ],
+  "AvailableProtocols": [
+    "Protocol"
+  ],
+  "AvailableICs": [
+    "IC"
+  ],
+  "ReaderConfig": [
+    {
+      "Model": "Model",
+      "SupportedProtocols": [
+        "Protocols"
+      ],
+      "SupportedICs": [
+        "ICs"
+      ],
+      "SetupCommands": [
+        {
+          "icName": [
+            "ICs"
+          ],
+          "icCommand": [
+            "ICsCommand"
+          ]
+        }
+      ]
+    }
+  ]
+}

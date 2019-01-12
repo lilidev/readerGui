@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReaderGui", "ReaderGui\ReaderGui.csproj", "{A13691DA-DB21-4150-9355-DFB1F96ECC58}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ReaderGuiInstaller", "ReaderGuiInstaller\ReaderGuiInstaller.vdproj", "{F96A0A82-7356-4B6F-9B43-1CA78CCCFB7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13691DA-DB21-4150-9355-DFB1F96ECC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13691DA-DB21-4150-9355-DFB1F96ECC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13691DA-DB21-4150-9355-DFB1F96ECC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13691DA-DB21-4150-9355-DFB1F96ECC58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F96A0A82-7356-4B6F-9B43-1CA78CCCFB7D}.Debug|Any CPU.ActiveCfg = Debug
+		{F96A0A82-7356-4B6F-9B43-1CA78CCCFB7D}.Debug|Any CPU.Build.0 = Debug
+		{F96A0A82-7356-4B6F-9B43-1CA78CCCFB7D}.Release|Any CPU.ActiveCfg = Release
+		{F96A0A82-7356-4B6F-9B43-1CA78CCCFB7D}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A174B10-85AB-40B2-9BC5-1191A9A04619}
+	EndGlobalSection
+EndGlobal
